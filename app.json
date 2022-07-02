@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TelemetricApp",
+    "slug": "TelemetricApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "TelemetricApp"
+}
